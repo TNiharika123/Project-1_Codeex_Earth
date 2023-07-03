@@ -1,7 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+## Homepage of Website
 ![Screenshot 2023-07-03 220309](https://github.com/TNiharika123/Project-1_Codeex_Earth/assets/122886989/b070cfa5-8921-4b27-b670-383bc3c0f47f)
 
+## Playing Song
+![Screenshot 2023-07-03 220332](https://github.com/TNiharika123/Project-1_Codeex_Earth/assets/122886989/5bef68b6-a8e1-4176-a06d-715a0046dc56)
+
+## Adding Songs
+![Screenshot 2023-07-03 221435](https://github.com/TNiharika123/Project-1_Codeex_Earth/assets/122886989/f7b964f0-1906-4c58-a4fb-bdec42a95de0)
 
 ## Getting Started
 
