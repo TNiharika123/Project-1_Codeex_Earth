@@ -8,6 +8,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Adding Songs
 ![Screenshot 2023-07-03 221435](https://github.com/TNiharika123/Project-1_Codeex_Earth/assets/122886989/f7b964f0-1906-4c58-a4fb-bdec42a95de0)
 
+## Login/SignUp
+![image](https://github.com/TNiharika123/Project-1_Codeex_Earth/assets/122886989/27f31f14-c83d-4d43-bc4e-44187f450102)
+
 ## Getting Started
 
 First, run the development server:
